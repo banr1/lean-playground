@@ -1,1 +1,3 @@
 import LeanPlayground.Finmap
+import LeanPlayground.InferInstanceAs
+import LeanPlayground.Opaque
